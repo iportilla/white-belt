@@ -1,0 +1,14 @@
+# Unzipped full dataset (over GitHub's 100 MB limit; the repo has the .zip)
+Class 02. White Belt events.csv
+
+# Files the notebook writes when it runs
+events_clean.csv
+events_real_locations.csv
+demo_with_index.csv
+demo_no_index.csv
+
+# Jupyter / Python / OS clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+~$*
